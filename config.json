@@ -46,7 +46,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "M̶ÊH̶ÊR̶ÂZ̶ B̶ÔT̶",
-  "prefix": ".",
+  "prefix": "#",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
