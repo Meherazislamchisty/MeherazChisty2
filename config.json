@@ -35,7 +35,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    ""
+    "100080736881604"
+    "100023789902793
   ],
   "whiteListMode": {
     "enable": false,
@@ -44,15 +45,15 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ADRIYAN 卝 ARYAN࿐ツ",
-  "prefix": "/",
+  "nickNameBot": "Farhan x Meheraz BOT",
+  "prefix": ".",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
   "authorName": "Meheraz",
-  "facebook2": "",
-  "facebook": "",
+  "facebook2": "https://www.facebook.com/meheraz.muhammads.ummat",
+  "facebook": "https://www.facebook.com/meheraz.muhammads.ummat",
   "email": "meherazchisty57@gmail.com",
   "replit": "https://replit.com/@ARYAN-BOT",
   "github": "https://github.com/ARYAN-BOT-404",
